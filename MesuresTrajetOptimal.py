@@ -89,7 +89,7 @@ def execute(iterations, filename):
                         for j in i:
                             row.append(j)
                     writer.writerow(row)
-                    loop = False
+                loop = False
         except: 
             if input(f"{filename} est ouvert. Fermer le fichier puis appuyer sur une touche pour réessayer.\nAppuyer sur S pour arrêter le programme.") in ['S', 's']:
                 break

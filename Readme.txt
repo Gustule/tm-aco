@@ -2,7 +2,7 @@ Ce fichier explique comment lancer correctement le programme MesuresTrajetOptima
 
 Le programme MesuresTrajetOptimal.py fonctionne avec Dijkstra.py et ACO.py présents dans la même fork du projet github (Gustule/tm-aco)
 
-===Mesurer l'efficacité des méthodes===
+==Mesurer l'efficacité des méthodes==
 
 Afin de lancer correctement le programme, télécharger les trois programmes de cette fork puis ouvrir MesuresTrajetOptimal.py et modifier au besoin les variables suivantes :
 - iterations (ligne 8) : définit le nombre de chemins qui vont être recherchés avec ACO, DIjkstra et la méthode aléatoire
